@@ -1,17 +1,17 @@
-package tsp.projects.competitor.HillClimbing;
+package tsp.projects.competitor;
 
 import java.util.Random;
 
 import tsp.evaluation.Evaluation;
 import tsp.evaluation.Path;
+import tsp.projects.CompetitorProject;
 import tsp.projects.InvalidProjectException;
-import tsp.projects.DemoProject;
 
 /**
  * @author Alexandre Blansché
  * Hill Climbing (aléatoire)
  */
-public class HillClimbing extends DemoProject
+public class HillClimbing extends CompetitorProject
 {
     private Random random;
     private Path path;
@@ -56,4 +56,3 @@ public class HillClimbing extends DemoProject
             this.path = path;
     }
 }
-
