@@ -1,0 +1,24 @@
+Évaluation des projets
+3 exécutions
+60 secondes
+2 projets
+3 problèmes
+
+tsp.projects.versionsNoUse.SA_Swap20pt_Adptive
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	122553.24920623
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3262.5008693333552
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	4094.0
+
+tsp.projects.versionsNoUse.SA_Swap2Opt_LS_Restart
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	125710.1501560498
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3309.4164921234715
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	4094.0
+
+Projet SA_Swap2Opt_Adaptive
+你的名字
+Évaluation: 0.0
+
+Projet SA_Swap2Opt_LS_Restart
+你的名字
+Évaluation: 1.3379895464060665
+

@@ -1,0 +1,41 @@
+Log V4 started at: Sun Apr 27 19:28:35 CEST 2025
+Initialization complete. Initial Best Cost: 121952.5785
+## New Best Found at Iter: 108 | Cost: 121931.3487
+Reached Iteration: 1000 Temp: 19994.0574
+>> Stagnation Restart Triggered at Iter: 1109 (Limit: 1000)
+## New Best Found at Iter: 1187 | Cost: 121928.7997
+## New Best Found at Iter: 1678 | Cost: 120219.5220
+Reached Iteration: 2000 Temp: 11148.9180
+>> Stagnation Restart Triggered at Iter: 2679 (Limit: 1000)
+Reached Iteration: 3000 Temp: 19719.8875
+>> Stagnation Restart Triggered at Iter: 3680 (Limit: 1000)
+## New Best Found at Iter: 3754 | Cost: 120215.8828
+Reached Iteration: 4000 Temp: 19739.6271
+## New Best Found at Iter: 4439 | Cost: 119818.0598
+## New Best Found at Iter: 4607 | Cost: 119617.4486
+Reached Iteration: 5000 Temp: 7258.1706
+>> Stagnation Restart Triggered at Iter: 5608 (Limit: 1000)
+Reached Iteration: 6000 Temp: 18367.6712
+>> Stagnation Restart Triggered at Iter: 6609 (Limit: 1000)
+Reached Iteration: 7000 Temp: 18386.0573
+>> Stagnation Restart Triggered at Iter: 7610 (Limit: 1000)
+Reached Iteration: 8000 Temp: 18404.4617
+>> Stagnation Restart Triggered at Iter: 8611 (Limit: 1000)
+Reached Iteration: 9000 Temp: 18422.8846
+## New Best Found at Iter: 9168 | Cost: 119578.7219
+Reached Iteration: 10000 Temp: 6774.0104
+>> Stagnation Restart Triggered at Iter: 10169 (Limit: 1000)
+Reached Iteration: 11000 Temp: 11838.6840
+>> Stagnation Restart Triggered at Iter: 11170 (Limit: 1000)
+Reached Iteration: 12000 Temp: 11850.5345
+>> Stagnation Restart Triggered at Iter: 12171 (Limit: 1000)
+Reached Iteration: 13000 Temp: 11862.3969
+>> Stagnation Restart Triggered at Iter: 13172 (Limit: 1000)
+Reached Iteration: 14000 Temp: 11874.2712
+>> Stagnation Restart Triggered at Iter: 14173 (Limit: 1000)
+Reached Iteration: 15000 Temp: 11886.1573
+>> Stagnation Restart Triggered at Iter: 15174 (Limit: 1000)
+Reached Iteration: 16000 Temp: 11898.0554
+>> Stagnation Restart Triggered at Iter: 16175 (Limit: 1000)
+Reached Iteration: 17000 Temp: 11909.9654
+>> Stagnation Restart Triggered at Iter: 17176 (Limit: 1000)

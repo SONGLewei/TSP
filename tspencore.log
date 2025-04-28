@@ -1,0 +1,61 @@
+Évaluation des projets
+3 exécutions
+60 secondes
+6 projets
+3 problèmes
+
+tsp.projects.versionsNoUse.SA_with_2opt_LS
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	125552.09274203576
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3339.769613174847
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	4094.0
+
+tsp.projects.versionsNoUse.SA_LS_BigRestart
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	123338.06130491977
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3376.8012297824916
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	4094.0
+
+tsp.projects.versionsNoUse.SA_Swap2Opt_LS_Restart
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	123649.47537819888
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3298.3349609817583
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	4094.0
+
+tsp.projects.versionsNoUse.SimulatedAnnealingTSPSolver
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	127109.80763884056
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3433.9514316585105
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	5116.0
+
+tsp.projects.versionsNoUse.SA_LS_Restart
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	124984.18087076193
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3317.0403821228942
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	4094.0
+
+tsp.projects.versionsNoUse.SimulatedAnnealingTSP
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	123339.68801861517
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	4054.8785213644696
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	5116.0
+
+Projet SA_Swap2Opt_LS_Restart
+你的名字
+Évaluation: 0.08416273938051354
+
+Projet SA_LS_Restart
+你的名字
+Évaluation: 0.6339191544282744
+
+Projet SA_LS_BigRestart
+你的名字
+Évaluation: 0.792988681955836
+
+Projet SA_with_2opt_LS
+你的名字
+Évaluation: 1.0171070568949512
+
+Projet EfficientSA_2opt
+你的名字
+Évaluation: 10.71102702661252
+
+Projet SimulatedAnnealing_2opt
+你的名字
+你的队友名字
+Évaluation: 15.967271819042438
+

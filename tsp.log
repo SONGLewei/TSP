@@ -1,8 +1,24 @@
 Évaluation des projets
-100 exécutions
+3 exécutions
 60 secondes
-1 projet
+6 projets
 3 problèmes
 
-tsp.projects.competitor.deuxOp
-D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127
+tsp.projects.versionsNoUse.SA_with_2opt_LS
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	125953.76954125789
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3322.9296261245386
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	4094.0
+
+tsp.projects.versionsNoUse.SA_LS_BigRestart
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	123279.15633483185
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3339.7275489409017
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	4094.0
+
+tsp.projects.versionsNoUse.SA_Swap2Opt_LS_Restart
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	123374.91903985913
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  	3312.151781556198
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\pr2048 	4094.0
+
+tsp.projects.versionsNoUse.SimulatedAnnealingTSPSolver
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\bier127	127463.0774685137
+D:\M1\S8\Métaheuristiques et algorithmes de recherche\mh_project\data\gr666  
